@@ -3,6 +3,9 @@
 Data Scientist <br>
 
 *I am interested in data science because I enjoy problem-solving and statistical analysis, which led me to look for a career in data science. Studing data science will give me analytical skills to help any company meet its goals and improve their profit*
+
+### A code cell contains code to be executed in the kernel. When the code is run, the notebook displays the output below the code cell that generated it.
+
 # Hello There! 
 
 My name is **Rula** i am studying *Data Science* I am enjoying the class! <br>
